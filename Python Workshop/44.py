@@ -1,0 +1,11 @@
+products=["soap","shampoo","brush"]
+products.append("toothpaste")
+print(products)
+products.insert(1,"facewash")
+print(products)
+products.remove("soap")
+print(products)
+products.sort()
+print(products)
+products.reverse()
+print(products)
